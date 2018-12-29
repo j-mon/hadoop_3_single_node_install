@@ -1,0 +1,1 @@
+# hadoop_3_single_node_install
